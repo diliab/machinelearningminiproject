@@ -7,5 +7,4 @@ add_executable(machinelearning main.cpp
         main.cpp
         main.cpp
         main.cpp
-        data.cpp
-        data.h)
+)
